@@ -16,5 +16,4 @@ Skills: Python / C++ / JAVA / VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukhvsin2&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sukhvsin2)  
 
