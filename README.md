@@ -1,5 +1,5 @@
 ### Hello Mate' 👋, My Name is Sukhvinder Singh
-#### I am an Android & Web Developer
+#### I am a Full Stack Developer
 ![I am Android & Web Developer](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif)
 
 I'm not a great programmer; I'm just a good programmer with great habits
