@@ -4,7 +4,7 @@
 
 I'm not a great programmer; I'm just a good programmer with great habits
 
-Skills: Python / C++ / JAVA / VUE JS / REACT / JS / HTML / CSS
+Skills: Python / C++ / JAVA / ANGULAR / VUE JS / REACT / JS / HTML / CSS / Express / NESTJS / DJANGO / FLUTTER 
 
 - 🔭 I’m currently working on Building Machine Learning Based Backend. 
 - 🌱 I’m currently learning about cloud computing 
