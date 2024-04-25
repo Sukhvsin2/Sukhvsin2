@@ -2,8 +2,8 @@
 #### I am a skilled Software Engineer🧑‍💻 with application knowledge in AWS Cloud CI/CD, Cloud infra, Angular, React, NodeJS, java, javascript, C++, Python, Quality Assurance
 ![](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif)
 
-- 🔭 I’m currently working on Building a Machine Learning Based Backend. 
-- 🌱 I’m currently learning about cloud computing 
+- 🔭 I work with all tech stacks which eases the platform development.
+- 🏆 I love collaborating on interesting ideas.
 - 📫 How to reach me: sukhvsingh2026@gmail.com 
 - ⚡ Fun fact: I think of leaving this programming world every day but I'm stuck in recursion. 
 
